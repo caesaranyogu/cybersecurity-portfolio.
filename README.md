@@ -14,4 +14,4 @@ Whether it’s securing cloud workloads, designing architecture for critical inf
 
 Proud Experience:
 
-My experience in Polkadot's blockchain academy on cryptography and the mechanisms and processes of blockchain and security was a tremendously rewarding and insightful course into high and low level concepts. I got to attend classes, graduate and even help fellow cohort classmates on discord. It was a powerful experience that opened my world to the many possibilities amd applications of cybersecurity.
+My experience in Polkadot's blockchain academy on cryptography and the mechanisms and processes of blockchain security was a tremendously rewarding and insightful course into high and low level concepts. I got to attend classes, graduate and even help fellow cohort classmates on discord. It was a powerful experience that opened my world to the many possibilities amd applications of cybersecurity.
