@@ -1,5 +1,4 @@
-
-
+Caesar Anyogu
 Atlanta,GA
 
 I am passionate about cryptography in relation to blockchain, decentralized finance, securing cloud information, security AI for advanced persistent threats, and designing security architecture systems.
