@@ -6,9 +6,9 @@ I am passionate about cryptography in relation to blockchain, securing cloud inf
 
 Career Plans:
 
-I'm a cybersecurity professional deeply passionate about Cloud Security, Security AI and Security Architecture. My work often intersects with cutting-edge technologies, including blockchain, where I explore how decentralization challenges and enhances traditional security and financial models.
+I'm a cybersecurity professional deeply passionate about Cloud Security, Security AI and Security Architecture. My work often intersects with cutting-edge technologies, including blockchain, where I explore how decentralization challenges and enhances infrastructure security and financial models.
 
-What drives me is not just the technology, but the opportunity to design resilient systems, anticipate threats, and create proactive security strategies that scale—from startups to cloud-native enterprises. I enjoy the complexity of securing distributed environments and leveraging automation, AI, and analytics to stay ahead of evolving threats.
+What drives me is not just the technology, but the opportunity to design resilient systems, anticipate threats, and create proactive security strategies that scale—from companies to city wide infrastructure like water, power and healthcare. I enjoy the complexity of securing distributed environments and leveraging automation, AI, and analytics to stay ahead of evolving threats and build resolient systems.
 
 Whether it’s securing cloud workloads, designing architecture for critical infrastructure, or building intelligence-driven defense systems, I’m committed to helping organizations build secure, sustainable, and future-ready environments.
 
