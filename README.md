@@ -1,22 +1,55 @@
-Caesar Anyogu
+# About Me – Caesar Anyogu
 
-Atlanta,GA
+Atlanta, GA | Caesar.anyogu@gmail.com | [GitHub Portfolio](https://github.com/caesaranyogu/cybersecurity-portfolio)
 
-I am passionate about cryptography in relation to blockchain, securing cloud information, security AI and designing security architecture systems.
+---
 
-Career Plans:
+## Hello
 
-I'm a cybersecurity professional deeply passionate about Cloud Security, Security AI and Security Architecture. My work often intersects with cutting-edge technologies, including blockchain, where I explore how decentralization challenges and enhances infrastructure security and financial models.
+I am an emerging cybersecurity professional with a passion for **cloud security, security AI, blockchain, and security architecture**. I combine over **10 years of leadership experience** in nonprofit operations with hands-on technical skills to design **resilient, secure, and scalable systems**.
 
-What drives me is not just the technology, but the opportunity to design resilient systems, anticipate threats, and create proactive security strategies that scale—from companies to city wide infrastructure like water, power and healthcare. I enjoy the complexity of securing distributed environments and leveraging automation, AI, and analytics to stay ahead of evolving threats and build resilient systems.
+My goal is to support **critical infrastructure, distributed systems, and enterprise environments** through proactive security design, automation, and threat intelligence.
 
-Whether it’s securing cloud workloads, designing architecture for critical infrastructure, or building intelligence-driven defense systems, I’m committed to helping organizations build secure, sustainable, and future-ready environments.
+---
 
-Proud Experience:
+## Technical Skills
 
-One of the most rewarding experiences in my cybersecurity journey was attending and graduating from Polkadot’s Blockchain Academy, where I deepened my understanding of both high- and low-level cryptographic concepts and the core mechanisms behind blockchain security.
+- **Programming & Scripting:** Python (automation), Rust (basics), Bash  
+- **Systems & Tools:** Linux administration, Windows/macOS support, configuration management (Ansible), virtualization  
+- **Cybersecurity & Networking:** Network+ / Security+ (in progress), blockchain & cryptography (Polkadot Academy)  
+- **Other:** Cloud security concepts, security AI, threat modeling  
 
-The program provided rigorous, hands-on insight into the secure design of decentralized systems, and it significantly expanded my perspective on the intersection between blockchain technology and modern cybersecurity practices.
+---
 
-Beyond the curriculum, I had the opportunity to support fellow cohort members via Discord, fostering collaboration and shared learning. This experience not only solidified my technical foundation but also reinforced my passion for helping others grow in this space. It was a pivotal chapter that continues to inspire my work across cloud security, security architecture, and threat intelligence—within blockchain and beyond.
+## Education
 
+**Emory University** – BA Sociology, Minor Psychology | Pre-Medical Curriculum  
+**Oxford College of Emory University** – AA Sociology  
+
+---
+
+## Notable Projects
+
+- **Python File Renamer:** Automated batch file renaming with dry-run and rollback log for safe execution.  
+- **Linux Triage Script:** Snapshots IP, ports, services, and logs for IT troubleshooting.  
+- **Ansible Baseline Playbook:** Automates software installation and service configuration, demonstrating idempotent configuration management.  
+
+---
+
+## Experience Highlights
+
+- **Program Director, Atlanta Contact Point Nonprofit**  
+  Managed programs impacting thousands of youth; designed resilient, structured systems and emergency protocols; led staff training and mentorship.  
+
+- **Polkadot Blockchain Academy Graduate**  
+  Learned advanced cryptography and secure decentralized system design; mentored peers via Discord and collaborated on technical problem-solving.  
+
+---
+
+## Career Focus
+
+- **Cloud Security** – Securing workloads and distributed systems  
+- **Security Architecture** – Designing resilient infrastructures  
+- **Security AI & Automation** – Leveraging AI for threat detection and mitigation  
+- **Blockchain Security** – Applying cryptography to decentralized financial systems
+  
