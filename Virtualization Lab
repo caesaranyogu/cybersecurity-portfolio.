@@ -1,0 +1,87 @@
+🧠 Multi-OS Home Cybersecurity Lab
+Overview
+
+This project documents the setup and configuration of a multi-operating system cybersecurity lab built on macOS using the UTM hypervisor. The goal was to strengthen my understanding of Linux administration, network segmentation, and remote access management by creating a controlled, simulated environment for experimentation and learning.
+
+Objectives
+
+Deploy multiple operating systems to simulate enterprise and industrial environments.
+
+Establish network communication and SSH access across systems.
+
+Troubleshoot virtualization and routing issues to improve system resilience.
+
+Apply problem-solving discipline under realistic system challenges.
+
+Lab Environment
+
+Host System: macOS (iMac)
+Hypervisor: UTM
+Guest Operating Systems:
+
+Ubuntu Server
+
+Fedora
+
+Debian
+
+Kali Linux
+
+Security Onion
+
+Windows 10
+
+Implementation Summary
+
+Initial Setup & Configuration
+
+Installed and configured all operating systems in UTM.
+
+Resolved boot-order conflicts that prevented successful VM initialization.
+
+Verified all VMs launched and performed as expected.
+
+Network Configuration
+
+Configured network interfaces for bridged networking, allowing inter-VM communication.
+
+Verified connectivity using ICMP (ping) between machines.
+
+Established local SSH access to Linux instances from the host.
+
+Troubleshooting External SSH Access
+
+Encountered SSH access restrictions from my classroom network.
+
+Reconfigured router and reset modem to regain administrative control.
+
+Began MFA recovery process to restore access to router management app.
+
+Next goal: Enable IP routing and port forwarding for remote SSH access from external networks.
+
+Key Learnings
+
+Linux Fundamentals: Deepened command-line fluency and service configuration confidence.
+
+Virtualization & Networking: Gained practical understanding of VM networking modes and IP management.
+
+Security & Access Control: Encountered real-world authentication challenges involving MFA recovery.
+
+Resilience & Adaptability: Each obstacle became an opportunity to refine troubleshooting discipline and system thinking.
+
+Reflection
+
+This project represented more than a technical lab—it was an exercise in control, adaptability, and understanding system leverage points.
+Each configuration challenge required precision and strategy, reinforcing that effective cybersecurity depends not only on knowledge, but on the ability to remain composed under system adversity.
+
+Next Steps
+
+Configure secure external SSH access via router port forwarding.
+
+Expand the lab into a segmented ICS/OT simulation environment.
+
+Integrate logging and intrusion detection via Security Onion.
+
+Create VPN for secure SSH
+
+Document network topologies and security policies for future lab builds.
